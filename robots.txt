@@ -1,5 +1,5 @@
 #
-# robots.txt for PHPCMS v91
+# robots.txt for PHPCMS v9
 #
 User-agent: * 
 Disallow: /caches
