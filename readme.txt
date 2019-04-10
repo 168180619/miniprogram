@@ -7,4 +7,4 @@ hello git
 
 112233
 
-gi checkout -- file  是在工作区的文件（没有放入缓存区的）起作和开始
+gi checkout -- file  是在工作区的文件（没有放入缓存区的）起作和开始a
